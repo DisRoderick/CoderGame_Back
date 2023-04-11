@@ -1,1 +1,3 @@
-console.log('primera edicion');
+const express = require('express')
+
+const app = express()
